@@ -1,0 +1,34 @@
+body{
+    background-color: #ff84b5;
+}
+
+h1{
+    font-size:30px;
+    color:white;
+}
+ol{
+    margin:30px 20px;
+}
+a{
+    color:black;
+    font-size:22px ;
+}
+hr{
+    margin: 20px 0px;
+}
+
+#ch1{
+    background-color:#ffd4e5 ;
+}
+
+#ch2{
+    background-color:#ffe9ae ;
+}
+
+#ch3{
+    background-color: #d4ffb2;
+}
+
+#ch4{
+    background-color:#dbdcff ;
+}
