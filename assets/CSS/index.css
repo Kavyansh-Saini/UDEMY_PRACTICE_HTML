@@ -1,34 +1,39 @@
 body{
-    background-color: #ff84b5;
-}
-
-h1{
+    background-color: #d084ff;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1{
     font-size:30px;
     color:white;
-}
-ol{
+  }
+  ol{
     margin:30px 20px;
-}
-a{
+  }
+  a{
     color:black;
     font-size:22px ;
-}
-hr{
-    margin: 20px 0px;
-}
-
-#ch1{
+  }
+  
+  div{
+    width: 100vw;
+    padding: 30px 20px;
+  }
+  
+  #ch1{
     background-color:#ffd4e5 ;
-}
-
-#ch2{
+  }
+  
+  #ch2{
     background-color:#ffe9ae ;
-}
-
-#ch3{
+  }
+  
+  #ch3{
     background-color: #d4ffb2;
-}
-
-#ch4{
+  }
+  
+  #ch4{
     background-color:#dbdcff ;
-}
+  }
+  
